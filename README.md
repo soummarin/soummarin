@@ -1,82 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Inas%20Soummar&fontSize=50&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=70" width="100%" alt="Inas Soummar Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0C,100:1A1410&height=170&section=header&text=Inas%20Soummar&fontSize=54&fontColor=F4EFE9&fontAlign=50&fontAlignY=45&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descSize=17&descColor=E8743B&descAlignY=68" width="100%" alt="Inas Soummar" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1200&color=E8743B&center=true&vCenter=true&width=640&lines=Computer+Vision+%C2%B7+NLP+%C2%B7+Machine+Learning;Final+year+%40+ESI-SBA+(2022%E2%80%932027);Seeking+an+AI+%2F+Data+Science+internship+%E2%80%94+January+2027" alt="Typing SVG" />
 
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Final-Year+AI+%26+Data+Science+Engineering+Student+%40+ESI-SBA;Computer+Vision+%C2%B7+NLP+%C2%B7+Machine+Learning;Seeking+an+AI+%2F+Data+Science+Internship+%E2%80%93+January+2027" alt="Typing SVG" />
-<br>
 
-<p>
-  <a href="mailto:inassoummar05@gmail.com"><img src="https://img.shields.io/badge/Email-inassoummar05%40gmail.com-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/inas-soummar-79b4b7432"><img src="https://img.shields.io/badge/LinkedIn-Inas%20Soummar-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<a href="mailto:inassoummar05@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B0C?style=for-the-badge&logo=gmail&logoColor=E8743B" alt="Email" /></a>
+<a href="https://linkedin.com/in/inas-soummar-79b4b7432"><img src="https://img.shields.io/badge/LinkedIn-0B0B0C?style=for-the-badge&logo=linkedin&logoColor=E8743B" alt="LinkedIn" /></a>
 
 </div>
 
----
+<br>
 
-### About Me
+I build end-to-end machine learning systems: from data preparation and model training to evaluation and deployment through APIs and web or mobile apps. Final-year engineering student at **ESI-SBA**, looking for an **AI / Data Science internship starting January 2027**.
 
-Final-year AI & Data Science engineering student at **ESI-SBA** (École Supérieure en Informatique de Sidi Bel Abbès, 2022 – 2027). I build end-to-end machine learning systems: data preparation, model training, evaluation, and deployment through APIs and web or mobile apps.
+<br>
 
-I am looking for an **AI / Data Science internship starting January 2027**.
+## Selected projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Selected Projects
+**[Quizor (Pocket OMR)](https://github.com/pocket-omr)**<br>
+Grades MCQ sheets from a phone photo.<br>
+`99.5% mAP@50` · `98.4% accuracy`<br>
+<sub>YOLOv8 · PyTorch · FastAPI · React · Flutter</sub>
 
-| Project | What it does | Highlights | Stack |
-|---|---|---|---|
-| [**Quizor (Pocket OMR)**](https://github.com/pocket-omr) | Grades MCQ sheets automatically from a phone photo | YOLOv8m-seg sheet segmentation (**99.5% mAP@50**), CNN bubble classifier (**98.4%** test accuracy), 3-CNN ensemble for handwritten names and IDs | PyTorch, YOLOv8, FastAPI, Docker, React, Flutter |
-| [**DeepGuard**](https://github.com/soummarin/url_detector) | Detects malicious URLs | 11 algorithms benchmarked on 79 URL features; LightGBM reached **98.7% F1** with a **0.33%** false-positive rate | scikit-learn, LightGBM, Flask |
-| [**Text Summarization**](https://github.com/soummarin/NLP_project) | Summarizes news articles and long PDFs | Fine-tuned BART-large-CNN on 7K articles, **ROUGE-2 0.213** (+89% over a TF-IDF baseline) | Hugging Face, Transformers, Streamlit |
-| [**AI Image Colorization**](https://github.com/soummarin/AI_colorization) | Colorizes grayscale images | 3 conditional-GAN architectures compared (UNet, ResUNet + CBAM, scaled UNet) on COCO 2017 | PyTorch, cGAN, Streamlit |
-| [**Meteorite Pattern Mining**](https://github.com/soummarin/MINI_PROJET_ML) | Mines patterns and predicts meteorite type | ~45K records, **676 association rules** (avg. confidence 0.84, lift 4.4), Apriori vs Eclat vs FP-Growth | Python, GeoPandas, Flask, Streamlit |
+</td>
+<td width="50%" valign="top">
 
----
+**[DeepGuard](https://github.com/soummarin/url_detector)**<br>
+Malicious URL detection, 11 algorithms benchmarked.<br>
+`98.7% F1` · `0.33% false positives`<br>
+<sub>LightGBM · scikit-learn · Flask</sub>
 
-### Tech Stack
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <b>AI & Machine Learning</b><br><br>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv&theme=light" /><br>
-  <sub>Deep Learning · NLP · Computer Vision · Generative AI (cGANs) · XGBoost · LightGBM · Hugging Face · YOLOv8</sub>
+**[Text Summarization](https://github.com/soummarin/NLP_project)**<br>
+Fine-tuned BART-large-CNN, PDF summarizer app.<br>
+`ROUGE-2 0.213` · `+89% vs TF-IDF`<br>
+<sub>Transformers · Hugging Face · Streamlit</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[AI Image Colorization](https://github.com/soummarin/AI_colorization)**<br>
+3 conditional GANs compared on COCO 2017.<br>
+`UNet` · `ResUNet + CBAM` · `16.7M params`<br>
+<sub>PyTorch · cGAN · Streamlit</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Meteorite Pattern Mining](https://github.com/soummarin/MINI_PROJET_ML)**<br>
+Association rules and meteorite type prediction.<br>
+`676 rules` · `lift 4.4` · `~45K records`<br>
+<sub>Apriori · Eclat · FP-Growth · GeoPandas</sub>
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+**[All repositories →](https://github.com/soummarin?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-111111?style=flat-square&logo=huggingface&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-111111?style=flat-square&logo=apachespark&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=E8743B" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=E8743B" />
 </p>
 
-<p align="center">
-  <b>Data</b><br><br>
-  <img src="https://skillicons.dev/icons?i=spark,hadoop,postgres,mysql,mongodb&theme=light" /><br>
-  <sub>PySpark · Spark SQL · MLlib · Airflow · ETL · Data Warehousing · Power BI · Plotly</sub>
-</p>
+<sub>Deep Learning · NLP · Computer Vision · Generative AI · XGBoost · LightGBM · YOLOv8 · PySpark · Airflow · ETL · Data Warehousing · Power BI · Plotly · SQL · Java · TypeScript · Dart</sub>
 
-<p align="center">
-  <b>Development & Tools</b><br><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nextjs,flutter,nodejs,java,js,ts,dart,docker,git,aws&theme=light" /><br>
-  <sub>FastAPI · Flask · Streamlit · Spring Boot · AWS (EC2, S3) · Postman</sub>
-</p>
-
----
-
-### Experience
-
-- **CAAR** (Compagnie Algérienne des Assurances et Réassurances), September 2025: Intern, Information Systems & Data Management (ORASS insurance management system, data quality, business processes).
-- **Alphabit Club**, 2024 – present: Finance Department.
-- **Ingenuims Club**, 2024 – 2025: Marketing & Visual Creation.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=soummarin&theme=tokyonight&hide_border=true&ring=C084FC&fire=F48FB1&currStreakLabel=C084FC&sideLabels=C084FC" width="60%" />
-</p>
-
----
+<br>
 
 <div align="center">
 
-**Open to AI / Data Science internship opportunities. Feel free to reach out.**
+<img src="https://streak-stats.demolab.com/?user=soummarin&theme=dark&background=0B0B0C&hide_border=true&ring=E8743B&fire=E8743B&currStreakLabel=E8743B&sideLabels=F4EFE9&currStreakNum=F4EFE9&sideNums=F4EFE9&dates=8A8580" width="60%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,50:CE93D8,100:F48FB1&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0C,100:1A1410&height=60&section=footer" width="100%" />
 
 </div>
