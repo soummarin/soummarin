@@ -20,24 +20,24 @@ to deployment, with a focus on computer vision and NLP.</p>
 
 ---
 
-## 🔬 Focus Areas
+##  Focus Areas
 
-- 👁️ **Computer Vision**: segmentation and classification (YOLOv8, CNNs), document and sheet understanding
-- 💬 **NLP**: fine-tuning transformers for summarization, evaluation with ROUGE
-- 🎨 **Generative models**: conditional GANs for image colorization
-- 📊 **Classical ML & data mining**: model benchmarking, association rules, feature engineering
+-  **Computer Vision**: segmentation and classification (YOLOv8, CNNs), document and sheet understanding
+-  **NLP**: fine-tuning transformers for summarization, evaluation with ROUGE
+-  **Generative models**: conditional GANs for image colorization
+-  **Classical ML & data mining**: model benchmarking, association rules, feature engineering
 
-## 📁 Selected Projects
+##  Selected Projects
 
 | Project | What it does | Highlights | Stack |
 |---|---|---|---|
-| 📱 [**Quizor (Pocket OMR)**](https://github.com/pocket-omr) | Grades MCQ sheets automatically from a phone photo | **99.5% mAP@50** sheet segmentation, **98.4%** bubble classification accuracy | YOLOv8, PyTorch, FastAPI, React, Flutter |
-| 🛡️ [**DeepGuard**](https://github.com/soummarin/url_detector) | Detects malicious URLs | 11 algorithms benchmarked, **98.7% F1**, **0.33%** false positives | scikit-learn, LightGBM, Flask |
-| 📝 [**Text Summarization**](https://github.com/soummarin/NLP_project) | Summarizes news articles and long PDFs | Fine-tuned BART-large-CNN, **ROUGE-2 0.213** (+89% over TF-IDF) | Transformers, Hugging Face, Streamlit |
-| 🎨 [**AI Image Colorization**](https://github.com/soummarin/AI_colorization) | Grayscale to color with conditional GANs | 3 architectures compared on COCO 2017 | PyTorch, cGAN, Streamlit |
-| ☄️ [**Meteorite Pattern Mining**](https://github.com/soummarin/MINI_PROJET_ML) | Association rules and meteorite type prediction | **676 rules** on ~45K records, Apriori vs Eclat vs FP-Growth | Python, GeoPandas, Flask, Streamlit |
+|  [**Quizor (Pocket OMR)**](https://github.com/pocket-omr) | Grades MCQ sheets automatically from a phone photo | **99.5% mAP@50** sheet segmentation, **98.4%** bubble classification accuracy | YOLOv8, PyTorch, FastAPI, React, Flutter |
+|  [**DeepGuard**](https://github.com/soummarin/url_detector) | Detects malicious URLs | 11 algorithms benchmarked, **98.7% F1**, **0.33%** false positives | scikit-learn, LightGBM, Flask |
+|  [**Text Summarization**](https://github.com/soummarin/NLP_project) | Summarizes news articles and long PDFs | Fine-tuned BART-large-CNN, **ROUGE-2 0.213** (+89% over TF-IDF) | Transformers, Hugging Face, Streamlit |
+|  [**AI Image Colorization**](https://github.com/soummarin/AI_colorization) | Grayscale to color with conditional GANs | 3 architectures compared on COCO 2017 | PyTorch, cGAN, Streamlit |
+|  [**Meteorite Pattern Mining**](https://github.com/soummarin/MINI_PROJET_ML) | Association rules and meteorite type prediction | **676 rules** on ~45K records, Apriori vs Eclat vs FP-Growth | Python, GeoPandas, Flask, Streamlit |
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **AI & ML**<br>
 <img src="https://img.shields.io/badge/Machine_Learning-1A1410?style=flat-square&labelColor=1A1410&color=E8743B" />
@@ -85,7 +85,7 @@ to deployment, with a focus on computer vision and NLP.</p>
 <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=E8743B" />
 <img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=E8743B" />
 
-## 👩‍💻 About Me
+##  About Me
 
 ```python
 class Inas:
@@ -104,15 +104,15 @@ me = Inas()
 me.say_hello()
 ```
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=soummarin&theme=dark&background=0B0B0C&hide_border=true&ring=E8743B&fire=E8743B&currStreakLabel=E8743B&sideLabels=F4EFE9&currStreakNum=F4EFE9&sideNums=F4EFE9&dates=8A8580" alt="GitHub streak" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soummarin&layout=compact&hide_border=true&bg_color=0B0B0C&title_color=E8743B&text_color=F4EFE9" alt="Top languages" />
 </div>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm looking for an **AI / Data Science internship starting January 2027**. If you are working on computer vision, NLP or applied ML, I would love to hear from you.
 
-📧 [inassoummar05@gmail.com](mailto:inassoummar05@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/inas-soummar-79b4b7432)
+[inassoummar05@gmail.com](mailto:inassoummar05@gmail.com) ·  [LinkedIn](https://linkedin.com/in/inas-soummar-79b4b7432)
