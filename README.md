@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,50:CE93D8,100:F48FB1&height=200&section=header&text=Inas%20Soummar&fontSize=50&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=70" width="100%" alt="Inas Soummar Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Inas%20Soummar&fontSize=50&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=70" width="100%" alt="Inas Soummar Banner" />
 
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Final-Year+AI+%26+Data+Science+Engineering+Student+%40+ESI-SBA;Computer+Vision+%C2%B7+NLP+%C2%B7+Machine+Learning;Seeking+an+AI+%2F+Data+Science+Internship+%E2%80%93+January+2027" alt="Typing SVG" />
