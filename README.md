@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0C,100:1A1410&height=170&section=header&text=Inas%20Soummar&fontSize=54&fontColor=F4EFE9&fontAlign=50&fontAlignY=45&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descSize=17&descColor=E8743B&descAlignY=68" width="100%" alt="Inas Soummar" />
+<h1>Inas Soummar</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1200&color=E8743B&center=true&vCenter=true&width=640&lines=Computer+Vision+%C2%B7+NLP+%C2%B7+Machine+Learning;Final+year+%40+ESI-SBA+(2022%E2%80%932027);Seeking+an+AI+%2F+Data+Science+internship+%E2%80%94+January+2027" alt="Typing SVG" />
+<b>AI & Data Science Engineering Student</b>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=E8743B&center=true&vCenter=true&width=700&height=30&lines=Computer+Vision+%C2%B7+NLP+%C2%B7+Machine+Learning;Final+year+%40+ESI-SBA+(2022%E2%80%932027);Seeking+an+AI+%2F+Data+Science+internship+%E2%80%94+January+2027" alt="Computer Vision, NLP, Machine Learning. Final year at ESI-SBA. Seeking an AI / Data Science internship, January 2027." />
 
 <br>
 
@@ -19,7 +21,7 @@ I build end-to-end machine learning systems: from data preparation and model tra
 
 ## Selected projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -102,7 +104,5 @@ Association rules and meteorite type prediction.<br>
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=soummarin&theme=dark&background=0B0B0C&hide_border=true&ring=E8743B&fire=E8743B&currStreakLabel=E8743B&sideLabels=F4EFE9&currStreakNum=F4EFE9&sideNums=F4EFE9&dates=8A8580" width="60%" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0C,100:1A1410&height=60&section=footer" width="100%" />
 
 </div>
