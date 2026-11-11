@@ -112,7 +112,7 @@ me.say_hello()
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=soummarin&theme=dark&background=0B0B0C&hide_border=true&ring=E8743B&fire=E8743B&currStreakLabel=E8743B&sideLabels=F4EFE9&currStreakNum=F4EFE9&sideNums=F4EFE9&dates=8A8580" alt="GitHub streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soummarin&layout=compact&hide_border=true&bg_color=0B0B0C&title_color=E8743B&text_color=F4EFE9" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=soummarin&layout=compact&hide_border=true&bg_color=0B0B0C&title_color=E8743B&text_color=F4EFE9" alt="Top languages" />
 </div>
 
 ## Let's Connect
